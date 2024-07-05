@@ -1,0 +1,45 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Cache
+/thebankofjackson-ui/.angular/cache
+
+# Compiled output
+/thebankofjackson-ui/dist
+/thebankofjackson-ui/tmp
+/thebankofjackson-ui/out-tsc
+/thebankofjackson-ui/bazel-out
+
+# Node
+/thebankofjackson-ui/node_modules
+/thebankofjackson-ui/npm-debug.log
+/thebankofjackson-ui/yarn-error.log
+
+# IDEs and editors
+/thebankofjackson-ui/.idea/
+/thebankofjackson-ui/.project
+/thebankofjackson-ui/.classpath
+/thebankofjackson-ui/.c9/
+/thebankofjackson-ui/*.launch
+/thebankofjackson-ui/.settings/
+/thebankofjackson-ui/*.sublime-workspace
+
+# Visual Studio Code
+/thebankofjackson-ui/.vscode/*
+/thebankofjackson-ui/!.vscode/settings.json
+/thebankofjackson-ui/!.vscode/tasks.json
+/thebankofjackson-ui/!.vscode/launch.json
+/thebankofjackson-ui/!.vscode/extensions.json
+/thebankofjackson-ui/.history/*
+
+# Miscellaneous
+/thebankofjackson-ui/.angular/cache
+/thebankofjackson-ui/.sass-cache/
+/thebankofjackson-ui/connect.lock
+/thebankofjackson-ui/coverage
+/thebankofjackson-ui/libpeerconnection.log
+/thebankofjackson-ui/testem.log
+/thebankofjackson-ui/typings
+
+# System files
+/thebankofjackson-ui/.DS_Store
+/thebankofjackson-ui/Thumbs.db

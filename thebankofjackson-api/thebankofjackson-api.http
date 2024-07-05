@@ -1,0 +1,6 @@
+@thebankofjackson_api_HostAddress = http://localhost:5145
+
+GET {{thebankofjackson_api_HostAddress}}/GetPlaidAccess/
+Accept: application/json
+
+###
